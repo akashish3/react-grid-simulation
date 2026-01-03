@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://akashish3.github.io/react-grid-simulation.git",
+"homepage": "https://akashish3.github.io/react-grid-simulation",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
