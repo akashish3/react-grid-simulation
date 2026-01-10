@@ -27,6 +27,7 @@ function App() {
         newCells.push([r, c]);
       }
     }
+    // shuffele cells if randomFlood is true
     if (randomFlood) {
       for (let i = newCells.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
